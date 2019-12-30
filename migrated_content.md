@@ -9,7 +9,7 @@ region: Asia/Pacific
 
 
 ---
-[center](image:OWASPidn1.jpg "wikilink")
+[center](image:OWASPidn1.jpg )
 
 ` Bhinneka Tunggal Ika`
 `  united we stand divided we fall `
@@ -152,11 +152,11 @@ OWASP Jakarta Projects
 
 ### 2017
 
-[OWASP SecureTea Project](OWASP_SecureTea_Project "wikilink")
+[OWASP SecureTea Project](OWASP_SecureTea_Project )
 
 ### 2019
 
-[Risk Assessment Framework](Risk_Assessment_Framework "wikilink")
+[Risk Assessment Framework](Risk_Assessment_Framework )
 
 ## Sponsoring
 
@@ -387,7 +387,7 @@ Sutandar
 
 OWASP Indonesia Online Session Talk
 Title: Strengthen and Scale security using
-DevSecOps([PDF](Media:Devsecops-owasp-indonesia.pdf "wikilink"))
+DevSecOps([PDF](Media:Devsecops-owasp-indonesia.pdf ))
 Thursday, October 4, 2018
 1:00 PM to 2:00 PM
 Register :
@@ -415,7 +415,7 @@ PyCon, NullCon, All Day DevOps, Null and OWASP chapters.
 Pembicara
 1\. First Step to Web Application ISO27001 vs PCIDSS VS OWASP TOP 10 by
 Elias (Head of System Development Faspay)
-([PDF](Media:OWASPNightFaspay.pdf "wikilink"))
+([PDF](/www-pdf-archive/OWASPNightFaspay.pdf ))
 2\. Building a tailored AppSec Program using OpenSAMM by Suman Sourav &
 Tuyen Do
 **Abstract: Building a tailored AppSec Program using OpenSAMM**
@@ -490,7 +490,7 @@ Yoseman Putra
 Leader by Suman Sourav
 19.30 p.m - 20.30 p.m - Speech including Q & A by David Holmes
 20.30 p.m - 21.30 p.m - Speech including Q & A by Harley Davidson Karel
-([PDF](Media:Owasp_Jakarta_Night_-2.pdf "wikilink"))
+([PDF](/www-pdf-archive/Owasp_Jakarta_Night_-2.pdf ))
 21:30 p.m - 22.00 pm - photo together/networking session
 Topic:
 
@@ -636,10 +636,10 @@ From 19:00 pm - 22:00 pm
 \==== Talks ====
 
   - **Secure coding practices with golang**
-    ([PDF](Media:Owasp-171123063052.pdf "wikilink"))
+    ([PDF](/www-pdf-archive/Owasp-171123063052.pdf ))
     by sulhaedir (IT Security Spesialis at Tokopedia)
   - **OWASP Risk Rating Management
-    Project**([PDF](Media:Riskratingmanagement-170615172835.pdf "wikilink"))
+    Project**([PDF](/www-pdf-archive/Riskratingmanagement-170615172835.pdf ))
     by M febri
 
 #### Speakers
@@ -705,21 +705,21 @@ Google Maps :
 
   - **Turning Legal Website into DDoS Tool**
     by Kalpin Erlangga (Indonesia Honeynet Project)
-    ([PDF](Media:IHP-OWASP-Kalpin-Presentation_-_Template-OWASP-Final.pdf "wikilink"))
+    ([PDF](Media:IHP-OWASP-Kalpin-Presentation_-_Template-OWASP-Final.pdf ))
     .
   - **The Art of phishing, and how to save yourself**
     by Oliver Valentino (Security analyst
     [BUKALAPAK](http://www.bukalapak.com))
-    ([PDF](Media:OWASP_presentation_-Oliver_Valentino_-.pdf "wikilink"))
+    ([PDF](/www-pdf-archive/OWASP_presentation_-Oliver_Valentino_-.pdf ))
   - **Trend Defacement On Indonesia E-Commerce Website**
     by Achmad Syafaat (ID-SIRTII/CC)
   - **Client Side Security And Testing Tools**
     by David Cervigni ( [Minded
     Security](https://mindedsecurity.com/index.php/about-us/company))
-    ([PDF](Media:OWASP_presentation_jkt2017.pdf "wikilink"))
+    ([PDF](/www-pdf-archive/OWASP_presentation_jkt2017.pdf ))
   - *' Hacking as a Livestyle*'
     Matias Prasodjo(Dracos)
-    ([PDF](Media:Hacking_Live_Style_-_OWASP_Jakarta.pdf "wikilink"))
+    ([PDF](/www-pdf-archive/Hacking_Live_Style_-_OWASP_Jakarta.pdf ))
 
 #### Speakers
 
@@ -823,7 +823,7 @@ Top 10-Bahasa](https://www.owasp.org/index.php/OWASP_Top_10_2013_-_Bahasa_Indone
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Indonesia](Category:Indonesia )
 [Category:Asia/Pacific/Middle
-East](Category:Asia/Pacific/Middle_East "wikilink")
+East](Category:Asia/Pacific/Middle_East )
