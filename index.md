@@ -23,10 +23,10 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 - Everyone is welcome to join us at our chapter meetings.see Meetings Schedule on Our Meeetup .
 - Want to talk at Our Chapter please email us :indonesia2018@owasp.org
 
-#Stay In Contact
-| [Follow Our Twitter](http://twitter.com/OwaspJakarta)
-| [Join Our Whatsapp Group](https://chat.whatsapp.com/invite/KVpddPbKCTj4ErVwljbUYg)
-| [Follow Our Facebook Fans Page](http://www.facebook.com/owaspid)
-| [Our Website](http://www.OWASP.or.id)
-| [Join Our Telegram](https://t.me/joinchat/KiPz5hOjsLPxWQ6bYVJusQ)
+#Stay In Contact <br>
+[Follow Our Twitter](http://twitter.com/OwaspJakarta)<br>
+[Join Our Whatsapp Group](https://chat.whatsapp.com/invite/KVpddPbKCTj4ErVwljbUYg)<br>
+[Follow Our Facebook Fans Page](http://www.facebook.com/owaspid)<br>
+[Our Website](http://www.OWASP.or.id)<br>
+[Join Our Telegram](https://t.me/joinchat/KiPz5hOjsLPxWQ6bYVJusQ)<br>
 
