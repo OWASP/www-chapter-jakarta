@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: null
 title: OWASP Jakarta
 tags: OWASP Jakarta
 level: 0
