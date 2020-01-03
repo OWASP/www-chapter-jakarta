@@ -77,5 +77,5 @@ The chapter leadership board is as follows:
       <td>All Chapter Leadership </td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td> Nur Krishna S<br/> Indra <br/> Achmad Syafaat  <br/>  Gumux Hijack  <br/>  Ali Kaharu  <br/>  Bima  <br/></td></tr>
+      <td> Nur Krishna S<br/> Indra Gunawan  <br/>  RB. Sundoko Haryo Permadi <br/>Achmad Syafaat  <br/>  Gumux Hijack  <br/>  Ali Kaharu  <br/>  Bima  <br/></td></tr>
 </table>
