@@ -65,7 +65,7 @@ The chapter leadership board is as follows:
       <td>Vina Panduwinata<br/> Dewo Nur Satrio <br/> Eka Syahfitri</td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
-      <td>Vina Panduwinata</td></tr>
+      <td>Chapter leader & PR/Marketing Coordinator</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
       <td>Vina Panduwinata</td></tr>
