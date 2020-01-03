@@ -15,8 +15,8 @@ tags: Jakarta
 
 ### 2019
 
-Mentor for Google Summer Of Code 2019
-{<https://summerofcode.withgoogle.com/projects/#5433531277246464>}
+
+[Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/projects/#5433531277246464)
 
 ## Past Security Events
 
@@ -498,13 +498,11 @@ at Q1 21th november 2017
 From 19:00 pm - 22:00 pm
 [CLOSED](https://www.eventbrite.com/e/owasp-jakarta-q4-2017-meetup-tickets-39109060252)
 \==== Talks ====
-
-  - **Secure coding practices with golang**
-    ([PDF](/www-pdf-archive/Owasp-171123063052.pdf ))
-    by sulhaedir (IT Security Spesialis at Tokopedia)
-  - **OWASP Risk Rating Management
-    Project**([PDF](/www-pdf-archive/Riskratingmanagement-170615172835.pdf ))
-    by M febri
+**Secure coding practices with golang**
+([PDF](/www-pdf-archive/Owasp-171123063052.pdf ))
+by sulhaedir (IT Security Spesialis at Tokopedia)
+- **OWASP Risk Rating Management Project**([PDF](/www-pdf-archive/Riskratingmanagement-170615172835.pdf ))
+by M febri
 
 #### Speakers
 
