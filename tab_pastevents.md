@@ -16,7 +16,7 @@ tags: Jakarta
 ## Past Security Events
 ### 2019
 
-[Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/projects/#5433531277246464)
+[Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/)
 
 ### 2018
 
