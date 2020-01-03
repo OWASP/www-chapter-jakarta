@@ -1,10 +1,9 @@
 ---
 title: History
 displaytext: History
-layout: col-sidebar
+layout: null
 tab: true
 order: 1
-tags: Indonesia, Jakarta
 
 ---
 
