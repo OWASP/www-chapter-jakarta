@@ -6,28 +6,7 @@ tags: OWASP Indonesia - Jakarta
 level: 4
 
 region: Asia
-
-auto-migrated: 1
-
 ---
-
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ## Welcome
 OWASP Indonesia now officially has meetup in jakarta and yogyakarta. Yogyakarta is very special for owasp indonesia. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
 Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please email us :indonesia2018@owasp.org
