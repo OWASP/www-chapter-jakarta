@@ -6,6 +6,10 @@ level: 2
 region: Asia
 ---
 
+` Bhinneka Tunggal Ika`
+`  united we stand divided we fall `
+`  OWASP Indonesia`
+
 ## Welcome
 OWASP Indonesia now officially has meetup in jakarta and yogyakarta. Yogyakarta is very special for owasp indonesia. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
 Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please email us :indonesia2018@owasp.org
