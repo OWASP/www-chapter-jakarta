@@ -1,9 +1,11 @@
 ---
 title: pastevents
-displaytext:Past Events
+displaytext: Past Events
 layout: col-sidebar
 tab: true
 order: 2
+tags: Jakarta
+
 ---
 
 ## Past Events
