@@ -47,7 +47,7 @@ OWASP Jakarta Projects
 
 [Risk Assessment Framework](https://github.com/OWASP/RiskAssessmentFramework)
 
-# Chapter Leadership<br>
+### Chapter Leadership<br>
 
 ------------------
 The chapter leadership board is as follows:
