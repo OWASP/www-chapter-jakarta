@@ -1,10 +1,8 @@
 ---
 title: pastevents
-displaytext: Past Events
-layout: col-sidebar
+layout: null
 tab: true
-order: 2
-tags: Indonesia, Jakarta
+order: 1
 
 ---
 
