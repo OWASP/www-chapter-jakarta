@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Jakarta
-tags: example-tag
-level: 0
+tags: OWASP Indonesia - Jakarta 
+level: 4
 
-region: Asia/Pacific
+region: Asia
 
 auto-migrated: 1
 
@@ -29,26 +29,25 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+OWASP Indonesia now officially has meetup in jakarta and yogyakarta. Yogyakarta is very special for owasp indonesia. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
+Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please email us :indonesia2018@owasp.org
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Meeting Schedule
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+[Meetings are organized via meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
 
-```
-{info.md}
+## Speakers
+- Everyone is welcome to join us at our chapter meetings.see Meetings Schedule on Our Meeetup .
+- Want to talk at Our Chapter please email us :indonesia2018@owasp.org
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+#Stay In Contact
+| [Follow Our Twitter](http://twitter.com/OwaspJakarta)
+| [Join Our Whatsapp Group](https://chat.whatsapp.com/invite/KVpddPbKCTj4ErVwljbUYg)
+| [Follow Our Facebook Fans Page](http://www.facebook.com/owaspid)
+| [Our Website](http://www.OWASP.or.id)
+| [Join Our Telegram](https://t.me/joinchat/KiPz5hOjsLPxWQ6bYVJusQ)
 
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
