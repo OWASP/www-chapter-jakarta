@@ -3,7 +3,7 @@ title: History
 displaytext: History
 layout: col-sidebar
 tab: true
-order: 3
+order: 1
 tags: Indonesia, Jakarta
 
 ---
