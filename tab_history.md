@@ -1,9 +1,8 @@
 ---
 title: History
-displaytext: History
 layout: null
 tab: true
-order: 1
+order: 2
 
 ---
 
