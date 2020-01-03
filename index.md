@@ -25,6 +25,28 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 - Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/OWASP-Jakarta-Chapter/)
 - Want to talk at Our Chapter please email us :indonesia2018@owasp.org
 
+
+## Project Volunteering
+
+OWASP Juice Shop UI v2.21.1 available in Indonesian language\! 🇮🇩
+(Preview: [OWASP Juice Shop](http://juice-shop-staging.herokuapp.com))
+download
+<https://github.com/bkimminich/juice-shop/releases/tag/v2.21.1>
+
+## Project On Progress
+
+Here the lists Project have been submit by OWASP JAKARTA Chapter
+Projects Members
+OWASP Jakarta Projects
+
+### 2017
+
+[OWASP SecureTea Project](OWASP_SecureTea_Project )
+
+### 2019
+
+[Risk Assessment Framework](Risk_Assessment_Framework )
+
 #Stay In Contact <br>
 [Follow Our Twitter](http://twitter.com/OwaspJakarta)<br>
 [Join Our Whatsapp Group](https://chat.whatsapp.com/invite/KVpddPbKCTj4ErVwljbUYg)<br>
