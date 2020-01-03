@@ -13,12 +13,10 @@ tags: Jakarta
 
 <meetup group="meetup-group-XxqLdaeY"/>
 
+## Past Security Events
 ### 2019
 
-
 [Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/projects/#5433531277246464)
-
-## Past Security Events
 
 ### 2018
 
