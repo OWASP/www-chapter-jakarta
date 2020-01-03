@@ -41,11 +41,11 @@ OWASP Jakarta Projects
 
 ### 2017
 
-[OWASP SecureTea Project](OWASP_SecureTea_Project )
+[OWASP SecureTea Project](https://www2.owasp.org/www-project-securetea)
 
 ### 2019
 
-[Risk Assessment Framework](Risk_Assessment_Framework )
+[Risk Assessment Framework](https://github.com/OWASP/RiskAssessmentFramework)
 
 #Stay In Contact <br>
 [Follow Our Twitter](http://twitter.com/OwaspJakarta)<br>
