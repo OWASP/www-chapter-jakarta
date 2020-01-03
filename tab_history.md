@@ -13,4 +13,9 @@ tags: Jakarta
 
 ==History==
 
-On December 2016, [http://www.owasp.org/index.php/Ade_Yoseman_Putra Ade Yoseman reactive OWASP Indonesia]
+OWASP Indonesia first was established by . This chapter was first led by Azwar Rosyadi. Furthermore, Azwar Rosyadi is no longer active in OWASP Indonesia. Since 2007, Zaki Akhmad has lead  Indonesia chapter.<br>
+On December 2016, [http://www.owasp.org/index.php/Ade_Yoseman_Putra](Ade Yoseman) was reactive OWASP Jakarta<br>
+
+Reference
+https://www.owasp.org/index.php?title=Indonesia&oldid=100820
+
