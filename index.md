@@ -1,8 +1,8 @@
 ---
 layout: col-sidebar
 title: OWASP Jakarta
-tags: OWASP Indonesia - Jakarta 
-level: 2
+tags: OWASP Jakarta
+level: 0
 region: Asia
 ---
 
