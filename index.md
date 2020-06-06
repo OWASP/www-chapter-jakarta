@@ -47,6 +47,11 @@ OWASP Jakarta Projects
 
 [Risk Assessment Framework](https://github.com/OWASP/RiskAssessmentFramework)
 
+### 2020
+
+[Python Goat / Pygoat](https://github.com/adeyosemanputra/pygoat)
+
+
 ### Chapter Leadership<br>
 
 ------------------
