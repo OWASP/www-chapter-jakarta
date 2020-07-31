@@ -3,7 +3,11 @@ layout: col-sidebar
 title: OWASP Jakarta
 tags: OWASP Jakarta
 level: 0
-region: Asia
+region: Asi
+meetup-group: OWASP-Jakarta-Chapter
+country: Indonesia
+postal-code: 
+
 ---
 
 ` Bhinneka Tunggal Ika`
