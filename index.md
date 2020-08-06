@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Jakarta
 tags: OWASP Jakarta
 level: 0
-region: Asi
+region: Asia
 meetup-group: OWASP-Jakarta-Chapter
 country: Indonesia
 postal-code: 
