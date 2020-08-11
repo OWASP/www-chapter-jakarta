@@ -14,6 +14,9 @@ tags: Jakarta
 <meetup group="meetup-group-XxqLdaeY"/>
 
 ## Past Security Events
+### 2020
+OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
+<br>Record https://www.youtube.com/watch?v=dEYkQRyr3cA&t=148<br>
 ### 2019
 
 [Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/)
