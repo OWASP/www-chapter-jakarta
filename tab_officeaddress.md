@@ -1,9 +1,9 @@
 ---
-title: office address
-displaytext: Office Addres
+title: officeaddress
+displaytext: Office Address
 layout: col-sidebar
 tab: true
-order: 3
+order: 1
 tags: Jakarta
 
 ---
