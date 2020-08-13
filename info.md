@@ -9,5 +9,5 @@
 [Join Our Whatsapp Group](https://chat.whatsapp.com/invite/KVpddPbKCTj4ErVwljbUYg)<br>
 [Follow Our Facebook Fans Page](http://www.facebook.com/owaspid)<br>
 [Our Website](http://www.OWASP.or.id)<br>
-[Join Our Telegram](https://t.me/joinchat/KiPz5hOjsLPxWQ6bYVJusQ)<br>
+[Join Our Telegram](https://t.me/joinchat/IjCM_FZz5qvmoeYKca1dvg)<br>
 [Meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
