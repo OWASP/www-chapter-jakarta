@@ -76,31 +76,27 @@ OWASP DAY KL 2016 Malaysia
 
 ### Past Meetup
 **OWASP Jakarta Night Q4 2018 @Bukalapak.com**
-
-When: 28th November 2018
-From 17:00 pm - 22:00 pm
-venue :
+<br>
+When: 28th November 2018<br>
+From 17:00 pm - 22:00 pm<br>
+venue :<br>
 Bukalapak Engineering Office, Jalan Ampera Raya, RT.5/RW.10, Ragunan,
-South Jakarta City, Jakarta Indonesia
-Sesi ini akan mendiskusikan tentang :
-1\. Keynote speech by Badan Siber Sandi Negara / BSSN (Tbc)
-2\. Security Championing by Vandy Putrandika
-3\. Novice to expert in Deep Learning and why it's necessary? by rohit
-parab
-4\. An architectural approach for decentralized applications by Ayodya
-Dewangga S R
-**Event Program:**
-17:00pm -18:00 pm - Arrival Participant & Registration
-18.00p.m - 18.30p.m - Keynote speech - Badan Siber Sandi Negara / BSSN
-(Tbc)
-18:30 pm – 19:15 p.m - Speech by Vandy Putrandika
-19.15 p.m - 19.45 p.m - Speech including Q & A by Rohit Parab
-20.45 p.m - 21.45 p.m - Speech including Q & A by Ayodya
-21:45 p.m - 22.00 pm - Networking Session /Photo Together
-This Meetup provide free Snack & food
-Sponsored by Bukalapak.com
+South Jakarta City, Jakarta Indonesia<br>
+Sesi ini akan mendiskusikan tentang :<br>
+1\. Security Championing by Vandy Putrandika<br>
+2\. Novice to expert in Deep Learning and why it's necessary? by rohit
+parab<br>
+3\. An architectural approach for decentralized applications by Ayodya
+Dewangga S R<br>
+**Event Program:**<br>
+17:00pm -18:00 pm - Arrival Participant & Registration<br>
+18:00 pm – 19:15 p.m - Speech by Vandy Putrandika<br>
+19.15 p.m - 19.45 p.m - Speech including Q & A by Rohit Parab<br>
+20.45 p.m - 21.45 p.m - Speech including Q & A by Ayodya<br>
+21:45 p.m - 22.00 pm - Networking Session /Photo Together<br>
+This Meetup provide free Snack & food Sponsored by Bukalapak.com<br>
 **Topic: Security Championing**
-Abstract:
+Abstract:<br>
 Resource, visibility and advocacy are always the main problems for the
 information security team in any company. Time and head count will
 always be scarce for the mandated scope of work. For a security bug, we
@@ -110,29 +106,29 @@ Security championing model tries to be the silver bullet for all those,
 especially in companies who want to incorporate DevSecOps. Yet, the
 implementation is not without obstacle. It may even introduce new
 problems along the way.
-End of the talk one would be able to understand
-1\. What is security championing?
+End of the talk one would be able to understand<br>
+1\. What is security championing?<br>
 2\. Who should implement security champion model and when is the best
-time?
+time?<br>
 3\. Where we can find and evangelize these security champions?
-Bio:
-**Vandy Putrandika**
+Bio:<br>
+**Vandy Putrandika**<br>
 Vandy is a security, governance and project management generalist who is
 passionate about digital strategy and transformation. Currently he works
 at Bukalapak as the Head of Information Security and managing the
 super-awesome security team inside while juggling with several security
-programs.
-Topic :
+programs.<br>
+Topic :<br>
 **An architectural approach for decentralized applications**
-
-1\. Understanding web 2.0 and web 3.0
-2\. The pros and cons of web 3.0
-3\. What are decentralized applications?
-4\. What are the benefits of decentralized application?
-5\. How to build a decentralized application?
-6\. How to secure decentralized application?
+<br>
+1\. Understanding web 2.0 and web 3.0<br>
+2\. The pros and cons of web 3.0<br>
+3\. What are decentralized applications?<br>
+4\. What are the benefits of decentralized application?<br>
+5\. How to build a decentralized application?<br>
+6\. How to secure decentralized application?<br>
 **Ayodya Dewangga S R**
-
+<br>
 1\. E-Channel Product Development Risk Officer at PT Bank Mandiri
 (Persero) Tbk
 2\. Chief Information Security Officer at PT Dekodr Solusi Digital
@@ -140,8 +136,8 @@ Indonesia
 3\. Master of Electrical Engineering (ICT Security) at University of
 Mercu Buana
 4\. Founder Cyber Security Division at Computer Student Club of Jakarta
-State Polytechnic
-**Rohit Parab
+State Polytechnic<br>
+**Rohit Parab<br>
 **
 
 '''Title - Novice to expert in Deep Learning and why it's necessary? '''
@@ -153,12 +149,12 @@ teams for high output in quicktime. A UX person. Strongly believes that
 a complete code should not just work, but also be clean and
 maintainable. An Artificial Intelligence enthusiast.
 Abstract - In brief, I will be sharing how someone can
-1\. Get started with Deep Learning.
-2\. What are the basic requirements.
-3\. Online free resources.
-4\. How much of math is required.
+1\. Get started with Deep Learning.<br>
+2\. What are the basic requirements.<br>
+3\. Online free resources.<br>
+4\. How much of math is required.<br>
 5\. What is the current state of Deep Learning and its effects on
-future.
+future.<br>
 
 
 **OWASP JAKARTA NIGHT Q4 2018
