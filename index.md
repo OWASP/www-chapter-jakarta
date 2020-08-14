@@ -21,10 +21,6 @@ Any private sector want to contribute and sponsor are welcome. Want to talk at O
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-## Meeting Schedule
-[Meetings are organized via meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
-
-
 ## Speakers
 - Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/OWASP-Jakarta-Chapter/)
 - Want to talk at Our Chapter please email us :indonesia2018@owasp.org
