@@ -8,5 +8,6 @@ tags: Jakarta
 
 ---
 
-## Past Meetup
 ## Meetup
+## Meeting Schedule
+[Meetings are organized via meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
