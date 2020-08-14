@@ -41,7 +41,7 @@ OWASP Jakarta Projects
 
 ### 2017
 
-[OWASP SecureTea Project](https://www2.owasp.org/www-project-securetea)
+[OWASP SecureTea Project](https://www.owasp.org/www-project-securetea)
 
 ### 2019
 
