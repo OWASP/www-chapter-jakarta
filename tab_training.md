@@ -20,6 +20,7 @@ As Official Chapter in Indonesia we can give training such as <br>
 7. DevSecOps<br>
 8. Other information security course <br>
 if any inquiry, send email to us indonesia.2018@owasp.org<br>
+or More info visit our official Website at https://training.owasp.or.id/
 
 
 
