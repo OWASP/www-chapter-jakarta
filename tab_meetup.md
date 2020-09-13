@@ -14,7 +14,7 @@ tags: Jakarta
 
 
 ### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=OWASP-Jakarta-Chapter %}
+{% include chapter_events.html group=meetup-group-XxqLdaeY %}
 
 <script type='text/javascript'>
   $(function(){
