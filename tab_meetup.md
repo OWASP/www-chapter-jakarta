@@ -5,7 +5,9 @@ layout: col-sidebar
 tab: true
 order: 2
 tags: Jakarta
-
+altfooter: true
+meetup-group: OWASP-Jakarta-Chapter
+country: Indonesia
 ---
 
 ## Meetup
@@ -14,7 +16,7 @@ tags: Jakarta
 
 
 ### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=meetup-group-XxqLdaeY %}
+{% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
   $(function(){
