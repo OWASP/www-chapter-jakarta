@@ -24,7 +24,7 @@ The chapter leadership board is as follows:
       <td>Ade Yoseman Putra</td></tr>
       <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for Chapter meetings and other events.</td>
-      <td>Vina Panduwinata<br/> Dewo Nur Satrio <br/> Eka Syahfitri</td></tr>
+      <td>Vina Panduwinata<br/></td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
       <td>Chapter leader & PR/Marketing Coordinator</td></tr>
@@ -39,5 +39,5 @@ The chapter leadership board is as follows:
       <td>All Chapter Leadership </td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td> Nur Krishna S<br/> Indra Gunawan  <br/>  RB. Sundoko Haryo Permadi <br/>Achmad Syafaat  <br/>  Gumux Hijack  <br/>  Ali Kaharu  <br/>  Bima  <br/></td></tr>
+      <td> Indra Gunawan  <br/>  RB. Sundoko Haryo Permadi <br/>Achmad Syafaat  <br/>  Gumux Hijack  <br/>  Ali Kaharu  <br/>  Bima  <br/></td></tr>
 </table>
