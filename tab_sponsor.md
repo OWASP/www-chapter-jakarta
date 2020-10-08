@@ -2,7 +2,7 @@
 
 title: Sponsors
 displaytext: Chapter sponsors
-layout: null
+layout: col-sidebar
 tab: true
 order: 6
 tags: Indonesia
