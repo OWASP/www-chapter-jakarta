@@ -1,11 +1,11 @@
 ---
 
-title: Sponsors
-displaytext: Chapter sponsors
+title: sponsor
+displaytext: Chapter Sponsor
 layout: col-sidebar
 tab: true
 order: 6
-tags: Indonesia
+tags: Jakarta
 
 ---
 
