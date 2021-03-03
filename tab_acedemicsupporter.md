@@ -1,6 +1,6 @@
 ---
 
-title: AcademicSuporter
+title: academicsuporter
 displaytext: Academic Suporter
 layout: col-sidebar
 tab: true
