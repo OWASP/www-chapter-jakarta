@@ -1,7 +1,7 @@
 ---
 
 title: AcademicSuporter
-displaytext: AcademicSuporter
+displaytext: Academic Suporter
 layout: col-sidebar
 tab: true
 order: 7
