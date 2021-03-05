@@ -1,5 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+
 
 ### Social Links
 [Meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
