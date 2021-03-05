@@ -1,4 +1,5 @@
-### Chapter Information
+<!--### Chapter Information
+* Chapter Region
 
 
 ### Social Links
