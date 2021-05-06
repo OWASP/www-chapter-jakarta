@@ -12,7 +12,7 @@ postal-code:
 
 ` Bhinneka Tunggal Ika`
 `  united we stand divided we fall `
-`  OWASP Indonesia`
+` 
 
 ## Welcome
 OWASP Indonesia now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
