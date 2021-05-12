@@ -8,9 +8,7 @@ tags: Jakarta
 
 ---
 
-
-
-### Chapter Leadership<br>
+### Chapter Leadership
 
 ------------------
 The chapter leadership board is as follows:

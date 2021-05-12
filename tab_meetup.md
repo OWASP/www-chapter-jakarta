@@ -12,10 +12,11 @@ country: Indonesia
 
 ## Meetup
 ## Meeting Schedule
+
 [Meetings are organized via meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
 
-
 ### Check our Upcoming Meetup Events:
+
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -37,6 +38,4 @@ country: Indonesia
       $(this).prop('title', popstr);
     });
   });
-
-  
 </script>

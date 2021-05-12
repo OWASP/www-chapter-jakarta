@@ -1,12 +1,12 @@
 ---
 
-title: academicsuporter
+title: academicsupporter
 displaytext: Academic Suporter
 layout: col-sidebar
 tab: true
 order: 8
 tags: Jakarta
+
 ---
 
-
-##Acedemic Supporter
+## Academic Supporter

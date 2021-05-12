@@ -1,4 +1,5 @@
 ---
+
 title: training
 displaytext: Training
 layout: col-sidebar
@@ -10,18 +11,15 @@ tags: Jakarta
 
 ## Training
 
-As Official Chapter in Indonesia we can give training such as <br>
-1. OWASP Top Ten<br>
-2. OWASP Testing Guide<br>
-3. OWASP SecureTea<br>
-4. OWASP OWASP Application Security Verification Standard (ASVS)<br>
-5. OWASP Mobile Security Testing Guide (MASV)<br>
-6. OWASP IoT Top 10 2018 <br>
-7. DevSecOps<br>
-8. Other information security course <br>
-if any inquiry, send email to us indonesia.2018@owasp.org<br>
-or More info visit our official Website at https://training.owasp.or.id/
+As Official Chapter in Indonesia we can give training such as
 
+1. OWASP Top Ten
+2. OWASP Testing Guide
+3. OWASP SecureTea
+4. OWASP OWASP Application Security Verification Standard (ASVS)
+5. OWASP Mobile Security Testing Guide (MASV)
+6. OWASP IoT Top 10 2018
+7. DevSecOps
+8. Other information security course
 
-
-
+if any inquiry, send email to us indonesia.2018@owasp.org or More info visit our official Website at https://training.owasp.or.id/

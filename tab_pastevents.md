@@ -1,4 +1,5 @@
 ---
+
 title: pastevents
 displaytext: Past Events
 layout: col-sidebar
