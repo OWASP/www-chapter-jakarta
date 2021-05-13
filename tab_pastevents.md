@@ -16,11 +16,18 @@ tags: Jakarta
 
 ## Past Security Events
 ### 2021
-### January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
+
+February 2021 Online Meetup: Don't feed the hippos (shut up and listen)
+
+**Date**: Saturday, February 27, 2021
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276243820/)
+
+January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
 
 **Date**: Saturday, January 23, 2021
 
-**Venue**: Online [OWASP Jakarta](https://www.meetup.com/OWASP-Jakarta-Chapter/events/275425229//)
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/275425229//)
 ### 2020
 OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
 <br>Record https://www.youtube.com/watch?v=dEYkQRyr3cA&t=148<br>
