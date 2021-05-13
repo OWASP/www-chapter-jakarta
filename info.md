@@ -1,6 +1,7 @@
 <!--### Chapter Information
 * Chapter Region
-
+![OWASP Jakarta Chapter](owaspjkt.png
+"OWASP Jakarta Chapter")
 
 ### Social Links
 [Meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
