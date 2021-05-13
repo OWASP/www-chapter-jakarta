@@ -17,6 +17,12 @@ tags: Jakarta
 ## Past Security Events
 ### 2021
 
+March 2021 Online Meetup: Getting API security right
+
+**Date**: Saturday, March 27, 2021
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276846828/)
+
 February 2021 Online Meetup: Don't feed the hippos (shut up and listen)
 
 **Date**: Saturday, February 27, 2021
