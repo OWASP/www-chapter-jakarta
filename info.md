@@ -3,7 +3,6 @@
 ![OWASP Jakarta Chapter](owaspjkt.png
 "OWASP Jakarta Chapter")
 
-* [Social Link](#)-->
 ## Stay In Contact <br>
 [OWASP Jakarta YouTube's Official Channel](https://www.youtube.com/channel/UCGdl9tpc1qZYcM3WRRFRPPA)<br>
 [Follow Our Twitter](http://twitter.com/OwaspJakarta)<br>
