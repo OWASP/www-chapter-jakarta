@@ -22,7 +22,7 @@ The chapter leadership board is as follows:
       <td>Ade Yoseman Putra, Vina Panduwinata, Achmad Syafaat</td></tr>
       <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for Chapter meetings and other events.</td>
-      <td>Vina Panduwinata<br/></td></tr>
+      <td>Vina Panduwinata, Saman Fatima<br/></td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
       <td>Chapter leader & PR/Marketing Coordinator</td></tr>
