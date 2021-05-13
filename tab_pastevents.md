@@ -17,6 +17,12 @@ tags: Jakarta
 ## Past Security Events
 ### 2021
 
+April 2021 Workshop OWASP Jakarta X BSSN (National Cyber Crypto Agency) : Secure Coding Practice With OWASP
+
+**Date**: Tue, April 27, 2021
+
+**Venue**: Aloft South Jakarta [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/photos/31406727/)
+
 March 2021 Online Meetup: Getting API security right
 
 **Date**: Saturday, March 27, 2021
