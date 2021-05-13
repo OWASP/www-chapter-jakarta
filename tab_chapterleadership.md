@@ -19,7 +19,7 @@ The chapter leadership board is as follows:
       <th>Person(s)</th></tr>
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-      <td>Ade Yoseman Putra</td></tr>
+      <td>Ade Yoseman Putra, Vina Panduwinata, Achmad Syafaat</td></tr>
       <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for Chapter meetings and other events.</td>
       <td>Vina Panduwinata<br/></td></tr>
