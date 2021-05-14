@@ -15,7 +15,7 @@ Bhinneka Tunggal Ika united we stand divided we fall by OWASP Jakarta
 
 ## Welcome
 OWASP Jakarta now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
-Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please email us our Jakarta Chapter Leaders.
+Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please reach out to [Ade Yoseman](mailto:ade.putra@owasp.org) 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
