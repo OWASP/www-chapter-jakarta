@@ -3,6 +3,11 @@
 ![OWASP Jakarta Chapter](owaspjkt.png
 "OWASP Jakarta Chapter")
 
+* [Become a member](https://owasp.org/membership/)
+* [Support the chapter](https://owasp.org/donate/)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+
 ## Stay In Contact
 [OWASP Jakarta YouTube's Official Channel](https://www.youtube.com/channel/UCGdl9tpc1qZYcM3WRRFRPPA)<br>
 [Follow Our Twitter](http://twitter.com/OwaspJakarta)<br>
