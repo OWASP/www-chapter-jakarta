@@ -49,6 +49,19 @@ November 2020 Online Conference: Virtual OWASP AppSec Indonesia Conference 2020
 **Date**: Saturday, November 21, 2020
 
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/273609518/)
+
+October 2020 Online Conference: Coded World - My Cheatsheet
+
+**Date**: Wednesday, October 28, 2020
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/274059946/)
+
+September 2020 Online Conference: Operationalizing Threat Intelligence with Automation and Collaboration
+
+**Date**: Saturday, September 26, 2020
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/272946597/)
+
 ### 2019
 
 [Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/)
