@@ -17,21 +17,21 @@ The chapter leadership board is as follows:
   <tr><th>Chapter Leadership Board Member Role</th>
       <th width="50%">Responsibilities</th>
       <th>Person(s)</th></tr>
-  <tr><td>Chapter Leader</td>
+  <tr><td>Chairman</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-      <td>Ade Yoseman Putra, Vina Panduwinata, Achmad Syafaat</td></tr>
-      <tr><td>Speaker Coordinator</td>
-      <td>Seeks and schedules speakers for Chapter meetings and other events.</td>
+      <td>Ade Yoseman Putra</td></tr>
+      <tr><td>Secretary</td>
+      <td>Help Chairman, Seeks and schedules speakers for Chapter meetings and other events.</td>
       <td>Vina Panduwinata, Saman Fatima<br/></td></tr>
-    <tr><td>Education Coordinator</td>
-      <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
-      <td>Chapter leader & PR/Marketing Coordinator</td></tr>
+    <tr><td>Vice Chairman</td>
+      <td>Help Chairman, Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
+      <td>Achmad Syafaat</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
       <td>Vina Panduwinata</td></tr>
     <tr><td>Membership and Project Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, tracking assigned tasks and reporting progress.</td>
-      <td>Achmad Syafaat <br/> Hilman Aditya</td></tr>
+      <td>Achmad Syafaat <br/> Looking Volunteer</td></tr>
     <tr><td>Events Committee</td>
       <td>responsible for coordinating aspects of events</td>
       <td>All Chapter Leadership </td></tr>
