@@ -28,7 +28,7 @@ The chapter leadership board is as follows:
       <td>Achmad Syafaat</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
-      <td>Vina Panduwinata</td></tr>
+      <td>Vacant</td></tr>
     <tr><td>Membership and Project Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, tracking assigned tasks and reporting progress.</td>
       <td>Vacant <br/></td></tr>
