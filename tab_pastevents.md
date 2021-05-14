@@ -43,6 +43,12 @@ January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
 ### 2020
 OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
 <br>Record https://www.youtube.com/watch?v=dEYkQRyr3cA&t=148<br>
+
+November 2020 Online Conference: Virtual OWASP AppSec Indonesia Conference 2020
+
+**Date**: Saturday, November 21, 2020
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/273609518/)
 ### 2019
 
 [Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/)
