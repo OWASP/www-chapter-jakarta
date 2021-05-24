@@ -3,6 +3,7 @@
 ![OWASP Jakarta Chapter](owaspjkt.png
 "OWASP Jakarta Chapter")
 
+* [See More Jakarta Chapter Org Structure](https://owasp.org/www-chapter-jakarta/#div-chapterleadership)
 * [Become a member](https://owasp.org/membership/)
 * [Support the chapter](https://owasp.org/donate/)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
