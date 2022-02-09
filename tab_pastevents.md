@@ -15,7 +15,43 @@ tags: Jakarta
 <meetup group="meetup-group-XxqLdaeY"/>
 
 ## Past Security Events
+
+### 2022
+
+January 2022 Online Meetup: OWASP x Pondok Siber Bandung
+**Date**: Monday, January 31, 2022 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/283476573/)
+
 ### 2021
+
+December 2021 Online Meetup: OWASP x University Brawijaya Malang, East Java
+**Date**: Thursday, December 30, 2021 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/282783192/)
+
+November 2021 Online Meetup: OWASP x Digital Katalis
+**Date**: Friday, November 26, 2021  
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/281863881/)
+
+October 2021 Online Meetup: Writing an Effective Penetration Testing Report: An Executive View
+**Date**: Monday, October 4, 2021 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/280589400/)
+
+September 2021 Online Meetup: Security Hardening of CI/CD Pipelines 
+**Date**: Friday, September 3, 2021 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/280188028/)
+
+August 2021 Online Meetup: Using OWASP Nettacker For Recon and Vulnerability Scanning
+**Date**: Thursday, August 12, 2021 
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/279361151/)
+
+July 2021 Online Meetup: Changed responsibilities in modern software development environments 
+**Date**: Monday, July 12, 2021 
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/278519901/)
+
+June 2021 Online Meetup: EXPLIoT - Internet of Things Security Testing and Exploitation framework
+**Date**: Friday, June 4, 2021 
+
+**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/278148208/)
 
 April 2021 Workshop OWASP Jakarta X BSSN (National Cyber Crypto Agency) : Secure Coding Practice With OWASP
 
