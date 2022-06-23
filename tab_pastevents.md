@@ -18,6 +18,11 @@ tags: Jakarta
 
 ### 2022
 
+February 2022 Online Meetup: OWASP x PT. SiCepat Ekspres IndonesiaOWASP x Pondok Siber Bandung
+**Date**:February 26, 2022
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/283984222/)
+
+
 January 2022 Online Meetup: OWASP x Pondok Siber Bandung
 **Date**: Monday, January 31, 2022 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/283476573/)
