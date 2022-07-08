@@ -10,11 +10,6 @@ tags: Jakarta
 ---
 
 ## Past Events
-## Events
-
-<meetup group="meetup-group-XxqLdaeY"/>
-
-## Past Security Events
 
 ### 2022
 July 2022 Online Meetup: Surviving Ransomware in 4.0 era - RaaS
