@@ -25,7 +25,8 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 ## Speakers
 - Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/OWASP-Jakarta-Chapter/)
 
-{% include chapter_events.html group=page.meetup-group %}
+## [Past Event](/tab_pastevents.md)
+## [Upcoming Event](/tab_meetup.md)
 
 ## Project Volunteering
 
