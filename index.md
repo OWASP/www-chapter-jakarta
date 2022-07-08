@@ -10,14 +10,19 @@ country: Indonesia
 postal-code: 
 
 ---
+## Your Local Chapter 
+[![OWASP Jakarta](assets/images/owaspid.jpg?raw=true)](https://owasp.or.id/)
 
-Bhinneka Tunggal Ika united we stand divided we fall by OWASP Jakarta
+Hello all, Welcome to your OWASP Jakarta Chapter\!<br/> 
+
+We are a place to come and meet local developers and information security professionals, share
+ideas, and learn.<br/>
+
+Bhinneka Tunggal Ika united ~ we stand divided we fall by OWASP Jakarta<br/>
 
 ## Welcome
 OWASP Jakarta now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
 Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please reach out to [Ade Yoseman](mailto:ade.putra@owasp.org) 
-#### Welcome To OWASP Jakarta!
-[![OWASP Jakarta](assets/images/owaspid.jpg)](https://owasp.or.id/)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
