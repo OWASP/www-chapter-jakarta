@@ -17,6 +17,10 @@ tags: Jakarta
 ## Past Security Events
 
 ### 2022
+July 2022 Online Meetup: Surviving Ransomware in 4.0 era - RaaS
+**Date**:July 03, 2022
+**Venue**:  Online [OWASP Jakarta Meetup.com]([https://www.meetup.com/owasp-jakarta-chapter/events/283984222/](https://www.meetup.com/owasp-jakarta-chapter/events/286746050/))
+
 
 February 2022 Online Meetup: OWASP x PT. SiCepat Ekspres Indonesia OWASP x Pondok Siber Bandung
 **Date**:February 26, 2022
