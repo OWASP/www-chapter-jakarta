@@ -18,7 +18,7 @@ Hello all, Welcome to your OWASP Jakarta Chapter\!<br/>
 We are a place to come and meet local developers and information security professionals, share
 ideas, and learn.<br/>
 
-Bhinneka Tunggal Ika united ~ we stand divided we fall by OWASP Jakarta<br/>
+Bhinneka Tunggal Ika ~ united we stand divided we fall by OWASP Jakarta<br/>
 
 ## Welcome
 OWASP Jakarta now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Jakarta Project are benefit to everybody. OWASP Jakarta Project as well are the pioneer project for Web Security Application.
