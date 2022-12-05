@@ -12,6 +12,11 @@ tags: Jakarta
 ## Past Events
 
 ### 2022
+
+November 2022 Secure Coding Practice with PyGoat
+**Date**:Nov 28, 2022
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/289799633/))
+
 September 2022 Bug Bounty - Tips & Trick
 **Date**:Sept 25, 2022
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/283984222/](https://www.meetup.com/owasp-jakarta-chapter/events/286746050/))
