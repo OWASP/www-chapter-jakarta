@@ -10,7 +10,19 @@ tags: Jakarta
 ---
 
 ## Past Events
+### 2023
 
+September 2023 OWASP Jakarta Night x Fastly x A10 (Offline Meetup)
+**Date**:September 15, 2023
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/295313578/))
+
+February 2023 Building Defence in Depths for APIS acros Multiple Platform
+**Date**:February 16, 2023
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/291464497/))
+
+January 2023 Flash memory dumping
+**Date**:January 30, 2023 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/290913180/))
 ### 2022
 
 November 2022 Secure Coding Practice with PyGoat
