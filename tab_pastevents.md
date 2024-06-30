@@ -10,7 +10,22 @@ tags: Jakarta
 ---
 
 ## Past Events
+
+### 2024
+Phishing Unveiled: Malicious JavaScript and First-Stage Loaders
+**Date**: Friday, June 28, 2024
+**Venue**: 
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/301727458/)
+
+"The Car Hacker's Methodology And Checklist For App
+**Date**:27 th march 2024,
+ **Venue**:Online
+
 ### 2023
+
+December 2023 Evaluasi Malware 2023 dan trend Malware 2024
+**Date**:Thursday, December 21, 2023
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/297555833/)
 
 September 2023 OWASP Jakarta Night x Fastly x A10 (Offline Meetup)
 **Date**:September 15, 2023
