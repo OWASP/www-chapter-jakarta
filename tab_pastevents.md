@@ -14,12 +14,11 @@ tags: Jakarta
 ### 2024
 Phishing Unveiled: Malicious JavaScript and First-Stage Loaders
 **Date**: Friday, June 28, 2024
-**Venue**: 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/301727458/)
 
 "The Car Hacker's Methodology And Checklist For App
 **Date**:27 th march 2024,
- **Venue**:Online
+**Venue**:Online
 
 ### 2023
 
