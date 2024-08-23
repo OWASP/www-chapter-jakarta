@@ -12,129 +12,141 @@ tags: Jakarta
 ## Past Events
 
 ### 2024
+
 Phishing Unveiled: Malicious JavaScript and First-Stage Loaders
+
 **Date**: Friday, June 28, 2024
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/301727458/)
 
 "The Car Hacker's Methodology And Checklist For App
+
 **Date**:27 th march 2024,
 **Venue**:Online
 
 ### 2023
 
 December 2023 Evaluasi Malware 2023 dan trend Malware 2024
+
 **Date**:Thursday, December 21, 2023
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/297555833/)
 
 September 2023 OWASP Jakarta Night x Fastly x A10 (Offline Meetup)
+
 **Date**:September 15, 2023
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/295313578/))
 
 February 2023 Building Defence in Depths for APIS acros Multiple Platform
+
 **Date**:February 16, 2023
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/291464497/))
 
 January 2023 Flash memory dumping
+
 **Date**:January 30, 2023 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/290913180/))
+
 ### 2022
 
 November 2022 Secure Coding Practice with PyGoat
+
 **Date**:Nov 28, 2022
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/289799633/))
 
 September 2022 Bug Bounty - Tips & Trick
+
 **Date**:Sept 25, 2022
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/283984222/](https://www.meetup.com/owasp-jakarta-chapter/events/286746050/))
 
 July 2022 Online Meetup: Surviving Ransomware in 4.0 era - RaaS
+
 **Date**:July 03, 2022
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/286746050/))
 
-
 February 2022 Online Meetup: OWASP x PT. SiCepat Ekspres Indonesia OWASP x Pondok Siber Bandung
+
 **Date**:February 26, 2022
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/283984222/)
 
-
 January 2022 Online Meetup: OWASP x Pondok Siber Bandung
+
 **Date**: Monday, January 31, 2022 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/283476573/)
 
 ### 2021
 
 December 2021 Online Meetup: OWASP x University Brawijaya Malang, East Java
+
 **Date**: Thursday, December 30, 2021 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/282783192/)
 
 November 2021 Online Meetup: OWASP x Digital Katalis
+
 **Date**: Friday, November 26, 2021  
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/281863881/)
 
 October 2021 Online Meetup: Writing an Effective Penetration Testing Report: An Executive View
+
 **Date**: Monday, October 4, 2021 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/280589400/)
 
 September 2021 Online Meetup: Security Hardening of CI/CD Pipelines 
+
 **Date**: Friday, September 3, 2021 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/280188028/)
 
 August 2021 Online Meetup: Using OWASP Nettacker For Recon and Vulnerability Scanning
+
 **Date**: Thursday, August 12, 2021 
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/279361151/)
 
 July 2021 Online Meetup: Changed responsibilities in modern software development environments 
+
 **Date**: Monday, July 12, 2021 
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/278519901/)
 
 June 2021 Online Meetup: EXPLIoT - Internet of Things Security Testing and Exploitation framework
-**Date**: Friday, June 4, 2021 
 
+**Date**: Friday, June 4, 2021 
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/278148208/)
 
 April 2021 Workshop OWASP Jakarta X BSSN (National Cyber Crypto Agency) : Secure Coding Practice With OWASP
 
 **Date**: Tue, April 27, 2021
-
 **Venue**: Aloft South Jakarta [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/photos/31406727/)
 
 March 2021 Online Meetup: Getting API security right
 
 **Date**: Saturday, March 27, 2021
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276846828/)
 
 February 2021 Online Meetup: Don't feed the hippos (shut up and listen)
 
 **Date**: Saturday, February 27, 2021
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276243820/)
 
 January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
 
 **Date**: Saturday, January 23, 2021
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/275425229//)
+
 ### 2020
+
 OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
 <br>Record https://www.youtube.com/watch?v=dEYkQRyr3cA&t=148<br>
 
 November 2020 Online Conference: Virtual OWASP AppSec Indonesia Conference 2020
 
 **Date**: Saturday, November 21, 2020
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/273609518/)
 
 October 2020 Online Meetup: Coded World - My Cheatsheet
 
 **Date**: Wednesday, October 28, 2020
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/274059946/)
 
 September 2020 Online Meetup: Operationalizing Threat Intelligence with Automation and Collaboration
 
 **Date**: Saturday, September 26, 2020
-
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/272946597/)
 
 ### 2019
@@ -143,21 +155,16 @@ September 2020 Online Meetup: Operationalizing Threat Intelligence with Automati
 
 ### 2018
 
-OWASP Appsec Europe 2018 [2th-6th july 2018,
-UK](https://appseceurope2018a.sched.com/ade.putra)
+OWASP Appsec Europe 2018 [2th-6th july 2018,UK](https://appseceurope2018a.sched.com/ade.putra)
 Taiwan International Information Security Organization Summit 2018
-[OWASP TAIWAN
-SUMMIT 2018](http://2018.twcsa.org/speakers.html#spkr_0711_owasp_04)
+[OWASP TAIWAN SUMMIT 2018](http://2018.twcsa.org/speakers.html#spkr_0711_owasp_04)
 Taipei, Taiwan
-Open Security Summit 2018 [@Remotely, Open Security
-Summit 2018](https://open-security-summit.org/participant-remote/ade-yoseman/)
+Open Security Summit 2018 [@Remotely, Open Security Summit 2018](https://open-security-summit.org/participant-remote/ade-yoseman/)
 London, UK.
 
-OWASP Sendai Chapter Meeting 2018, [Sendai
-Japan](https://owaspsendai.connpass.com/event/84885/) 27 th april 2018
+OWASP Sendai Chapter Meeting 2018, [Sendai Japan](https://owaspsendai.connpass.com/event/84885/) 27 th april 2018
 
-Blackhat Asia Singapore 2018 Bussiness Hall ["TRENDS AND STRATEGIES FOR
-SECURING THE INTERNET OF
+Blackhat Asia Singapore 2018 Bussiness Hall ["TRENDS AND STRATEGIES FOR SECURING THE INTERNET OF
 THINGS"](https://www.blackhat.com/asia-18/sponsored-sessions/schedule/index.html#trends-and-strategies-for-securing-the-internet-of-things-10064)
 23 th March 2018
 
@@ -179,10 +186,7 @@ TAIWAN 2017](http://2017.twcsa.org/OWASP2017/speakers.html#spkr_owasp_keynote01)
 11 - 13 July 2017
 
 OWASP Summit 2017 London, England \[Participants from OWASP Jakarta
-Chapter is [Ade
-Yoseman](https://owaspsummit.org/Participants/remote/Ade-Yoseman-Putra.html),
-[Petty
-Meisari](https://owaspsummit.org/Participants/remote/Petty-Meisari.html)
+Chapter is [Ade Yoseman](https://owaspsummit.org/Participants/remote/Ade-Yoseman-Putra.html), [Petty Meisari](https://owaspsummit.org/Participants/remote/Petty-Meisari.html)
 & 12-16 June 2017
 Blackhat Asia Singapore 2017 [@Arsenal, Blackhat Asia
 Singapore 2017](https://www.blackhat.com/asia-17/arsenal.html#ade-yoseman-putra)
@@ -639,11 +643,9 @@ he work as Security Consultant at Visionet.
 
 Thanks for sponsor this meetup
 
-
 **Workshop OWASP at "Sofware Freedom Day 2017"**
 ![Sofware_freedom_day_2017.jpg](Sofware_freedom_day_2017.jpg
 "Sofware_freedom_day_2017.jpg")
-
 
 
 workshop with KSL UBL "improving Security Attack and Defense with
@@ -653,7 +655,8 @@ Auditorium Universitas Budi Luhur, Jl. Ciledug Raya No.126, RT.1/RW.2,
 Petukangan Utara, Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus
 Ibukota Jakarta 12260, Indonesia
 
-**OWASP Indonesia Day 2017** ![Owaspdayid1.jpeg](Owaspdayid1.jpeg
+**OWASP Indonesia Day 2017** 
+![Owaspdayid1.jpeg](Owaspdayid1.jpeg
 "Owaspdayid1.jpeg")
 when Developers, startups, hackers will meet.. just visit us @ OWASP
 Indonesia Day 2017
@@ -672,13 +675,10 @@ with Theme: "How Secure Ecommerce"
 Date: 14 May 2017 02 pm to 05 pm (GMT+7 Jakarta)
 
 Venue: PTC Pulogadung Trade Centre Ballroom 2nd Floor
-
 Jalan Raya Bekasi, RW.3, Rw. Terate, Cakung, Kota Jakarta Timur, DKI
 Jakarta 13920
 
-Google Maps :
-
-<https://goo.gl/maps/gmZnSofLvEF2>
+Google Maps : <https://goo.gl/maps/gmZnSofLvEF2>
 
 #### Talks
 
@@ -738,7 +738,8 @@ in the biggest institutions across Swiss and UK markets. He holds a
 master's degree in computer science from the University of Camerino.
 
 **Achmad Syafaat**
-Lead and coordinate implementation of cyber security research in Id-SIRTII/CC
+
+Lead and coordinate implementation of cyber security research in Research and Development Dept., Id-SIRTII/CC
 
 **Matias Prasodjo**
 
@@ -747,6 +748,7 @@ Team](https://dracos-linux.org/). he is Subject Matter Expert Security
 and System at PT Lintas Teknologi Indonesia.
 
 **OWASP Indonesia Meetup I 2017**
+
 OWASP Indonesia Meetup I 2017 on March 4 th, 2017
 See More [OWASP Indonesia Meetup I 2017 on March 4
 th, 2017](https://www.owasp.org/index.php/OWASP_Indonesia_Meetup_I_2017)
