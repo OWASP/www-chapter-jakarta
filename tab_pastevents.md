@@ -738,6 +738,7 @@ in the biggest institutions across Swiss and UK markets. He holds a
 master's degree in computer science from the University of Camerino.
 
 **Achmad Syafaat**
+Lead and coordinate implementation of cyber security research in Id-SIRTII/CC
 
 **Matias Prasodjo**
 
