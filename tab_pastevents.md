@@ -23,6 +23,7 @@ Phishing Unveiled: Malicious JavaScript and First-Stage Loaders
 **Date**:27 th march 2024,
 **Venue**:Online
 
+
 ### 2023
 
 December 2023 Evaluasi Malware 2023 dan trend Malware 2024
@@ -44,6 +45,7 @@ January 2023 Flash memory dumping
 
 **Date**:January 30, 2023 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/290913180/))
+
 
 ### 2022
 
@@ -71,6 +73,7 @@ January 2022 Online Meetup: OWASP x Pondok Siber Bandung
 
 **Date**: Monday, January 31, 2022 
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/283476573/)
+
 
 ### 2021
 
@@ -129,6 +132,7 @@ January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
 **Date**: Saturday, January 23, 2021
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/275425229//)
 
+
 ### 2020
 
 OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
@@ -149,9 +153,11 @@ September 2020 Online Meetup: Operationalizing Threat Intelligence with Automati
 **Date**: Saturday, September 26, 2020
 **Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/272946597/)
 
+
 ### 2019
 
 [Mentor for Google Summer Of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/)
+
 
 ### 2018
 
@@ -170,6 +176,7 @@ THINGS"](https://www.blackhat.com/asia-18/sponsored-sessions/schedule/index.html
 
 Blackhat Asia Singapore 2018 Arsenal [@Arsenal, Blackhat Asia
 Singapore 2018](https://www.blackhat.com/asia-18/arsenal/schedule/index.html#owasp-securetea-tool-project-9669)
+
 
 ### 2017
 
@@ -191,6 +198,7 @@ Chapter is [Ade Yoseman](https://owaspsummit.org/Participants/remote/Ade-Yoseman
 Blackhat Asia Singapore 2017 [@Arsenal, Blackhat Asia
 Singapore 2017](https://www.blackhat.com/asia-17/arsenal.html#ade-yoseman-putra)
 30 - 31 March 2017
+
 
 ### 2016
 
@@ -743,8 +751,7 @@ Lead and coordinate implementation of cyber security research in Research and De
 
 **Matias Prasodjo**
 
-Matias Prasodjo is Vice Leader [DracOs Linux
-Team](https://dracos-linux.org/). he is Subject Matter Expert Security
+Matias Prasodjo is Vice Leader [DracOs Linux Team](https://dracos-linux.org/). he is Subject Matter Expert Security
 and System at PT Lintas Teknologi Indonesia.
 
 **OWASP Indonesia Meetup I 2017**
