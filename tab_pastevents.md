@@ -13,6 +13,10 @@ tags: Jakarta
 
 ### 2024
 
+Emerging Threats for the Mobile Application
+**Date**: Wednesday, August 28, 2024
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/302680928/?eventOrigin=group_events_list)
+
 Phishing Unveiled: Malicious JavaScript and First-Stage Loaders
 
 **Date**: Friday, June 28, 2024
