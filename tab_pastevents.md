@@ -12,8 +12,13 @@ tags: Jakarta
 ## Past Events
 
 ### 2024
+Introduction to Attacking AWS Cloud
+
+**Date**: Thursday, September 26, 2024
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/303291709/?eventOrigin=group_events_list)
 
 Emerging Threats for the Mobile Application
+
 **Date**: Wednesday, August 28, 2024
 **Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/302680928/?eventOrigin=group_events_list)
 
