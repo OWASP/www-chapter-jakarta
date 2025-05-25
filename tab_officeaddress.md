@@ -10,6 +10,4 @@ tags: Jakarta
 ---
 
 ## Office 
-PT.Aplikasi Siber Teknologi<br>
-https://appsec.co.id<br>
-<br> mobile phone : 085693993527
+Ruko Graha Kartika Pratama Blok J1 </br>Jl. Raya Tegar Beriman Bojong gede, Bojong Baru, Bojong Gede, Bogor, Jawa Barat 16914, Indonesia 
