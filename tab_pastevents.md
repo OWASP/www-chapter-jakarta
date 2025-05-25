@@ -10,6 +10,16 @@ tags: Jakarta
 ---
 
 ## Past Events
+### 2025
+OSINT for Cyber Offense
+
+**Date**: Thursday, March 13, 2025
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/306476264/?eventOrigin=group_past_events)
+
+API Security Meetup
+
+**Date**: Jan 24, 2025 15:00 - 16:00 PM Jakarta
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/305627312/)
 
 ### 2024
 Introduction to Attacking AWS Cloud
