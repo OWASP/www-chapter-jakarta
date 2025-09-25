@@ -11,6 +11,11 @@ tags: Jakarta
 
 ## Past Events
 ### 2025
+Car Hacking 101
+
+**Date**: Saturday, September 20, 2025 11:00 AM to 12:00 PM WIB
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/311001547/?eventOrigin=group_events_list)
+
 OSINT for Cyber Offense
 
 **Date**: Thursday, March 13, 2025
