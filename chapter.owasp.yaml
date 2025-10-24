@@ -1,0 +1,25 @@
+leaders:
+  - name: Ade Yoseman Putra
+    email: ade.putra@owasp.org
+    github: adeyosemanputra
+  - name: Achmad Syafaat
+    email: achmad.syafaat@owasp.org
+    github: asyafaat
+location:
+  country: Indonesia
+  country_code: ID
+  region: Jakarta Special Capital Region
+  city: Jakarta
+  latitude: -6.175247
+  longitude: 106.8270488
+meetup_group: OWASP-Jakarta-Chapter
+name: OWASP Jakarta
+repositories:
+  - name: www-chapter-jakarta
+    url: https://github.com/OWASP/www-chapter-jakarta
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Jakarta
+  - custom-tag-1
+website: https://owasp.org/www-chapter-jakarta
