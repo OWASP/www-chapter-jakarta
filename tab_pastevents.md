@@ -11,6 +11,12 @@ tags: Jakarta
 
 ## Past Events
 ### 2025
+AI, ISO & OWASP: Pilar Baru Tata Kelola dan Keamanan Siber di Indonesia
+
+**Date**: Saturday, Oct 4 · 8:00 AM to 10:00 AM WIB
+**Venue**:  Online [OWASP Jakarta Meetup.com](https://www.meetup.com/owasp-jakarta-chapter/events/311181810/?eventOrigin=group_events_list)
+
+
 Car Hacking 101
 
 **Date**: Saturday, September 20, 2025 11:00 AM to 12:00 PM WIB
