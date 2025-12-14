@@ -25,7 +25,7 @@ OWASP Jakarta now officially has monthly meetup. We are non-profit organization.
 Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please reach out to [Ade Yoseman](mailto:ade.putra@owasp.org) 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 ## Speakers
 - Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/OWASP-Jakarta-Chapter/)
